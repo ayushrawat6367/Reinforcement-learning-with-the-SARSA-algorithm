@@ -1,4 +1,5 @@
-Reinforcement Learning with the SARSA Algorithm
+#Reinforcement Learning with the SARSA Algorithm
+
 This project implements a simple reinforcement learning environment using the SARSA (State-Action-Reward-State-Action) algorithm. The environment is a grid-based world where an agent navigates from a start position to a goal, collecting rewards or penalties along the way.
 
 Project Overview
